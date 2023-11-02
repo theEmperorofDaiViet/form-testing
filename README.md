@@ -24,7 +24,7 @@
 </details>
 
 # About The Project
-A basic form app to understand how units tests can be made in Vue, using <code>vue-test-utils</code>, ***Mocha*** and ***Chai***
+A basic form app to understand how units tests can be made in Vue using <code>vue-test-utils</code>, ***Mocha*** and ***Chai***, based on chapter 9 of the book "**Fullstack Vue 3**".
 
 ## Built With
 * [![HTML5][HTML5-shield]][HTML5-url]
